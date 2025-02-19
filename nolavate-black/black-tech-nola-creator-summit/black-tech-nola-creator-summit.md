@@ -15,8 +15,7 @@ February 14, 2025
 
 
 # Excerpt
-On Monday, 4th of November 2024, NOLAvate Black hosted its 7th Black Tech NOLA: Creator Summit in conjunction with New Orleans Tourism & Cultural Fund. NOLAvate Black is the largest Black Tech conference in the New Orleans region.  I had the pleasure to attend my first Black Tech NOLA: Creator Summit at Loyola University New Orleans from 8am - 4pm.
-The event featured four panels and a keynote presentation. Except for the keynote, I attended each panel. I have provided details of the notes and takeaways I gathered from the panel speakers.
+On Monday, 4th of November 2024, NOLAvate Black hosted its 7th Black Tech NOLA: Creator Summit in conjunction with New Orleans Tourism & Cultural Fund. NOLAvate Black is the largest Black Tech conference in the New Orleans region.  I had the pleasure to attend my first Black Tech NOLA: Creator Summit at Loyola University New Orleans from 8am - 4pm.The event featured four panels and a keynote presentation. Except for the keynote, I attended each panel. I have provided details of the notes and takeaways I gathered from the panel speakers.
 
 <br/>
 <br/>
@@ -43,7 +42,7 @@ Greetings & Salutations, Artistikk R3b3lls!
 
 # Black Tech NOLA Creator Summit Introduction
 ## NOLAvate Black
-On Monday, 4th of November 2024, NOLAvate Black hosted it’s 7th Black Tech NOLA: Creator Summit in conjunction with New Orleans Tourism & Cultural Fund. NOLAvate Black is the largest Black Tech conference in the New Orleans region.  I had the pleasure to attend my first Black Tech NOLA: Creator Summit at Loyola University New Orleans from 8am - 4pm
+On Monday, 4th of November 2024, NOLAvate Black hosted its 7th Black Tech NOLA: Creator Summit in conjunction with New Orleans Tourism & Cultural Fund. NOLAvate Black is the largest Black Tech conference in the New Orleans region.  I had the pleasure to attend my first Black Tech NOLA: Creator Summit at Loyola University New Orleans from 8am - 4pm.
 
 ## Founder
 Sabrina N. Short, founder and CEO of NOLAvate Black, is a community organizer and tech advocate.
@@ -63,10 +62,10 @@ Sabrina N. Short, founder and CEO of NOLAvate Black, is a community organizer an
 Before the event began, I visited Idea Village, The City of New Orleans, and Oschner.
 
 ### Idea Village
-I visited Idea Village because I wanted to ask about their entrepreneur programs/fellowships, including IdeaInstitute. Idea Village's representative discussed some application questions and how I can attend Yu-Gi-Oh events and ask questions about customers need. Furthermore, the vendors shared that I need to know what problem I am trying to solve. They advised I check their website periodically for the next cohort.
+I visited Idea Village because I wanted to ask about their entrepreneur programs and fellowships, including IdeaInstitute. Idea Village's representative discussed some application questions and how I can attend Yu-Gi-Oh events and ask questions about customers' needs. Furthermore, the vendors shared that I need to know what problem I am trying to solve. They advised I check their website periodically for the next cohort.
 
 ### The City of New Orleans 
-I was interested in our great city's career opportunities. It was my first time participating in a NOLAvate's event and I was unaware I should have brought my resume. I signed the registration form and collected their business card.
+I was interested in our great city's career opportunities. It was my first time participating in a NOLAvate's event, and I was unaware I should have brought my resume. I signed the registration form and collected their business card.
 
 ### Oschner
 I visited Oschner's table to learn about their available employment prospects and acquire cool swag. After speaking with their representatives, I discovered they are Microsoft-based and use .NET for software development.
@@ -103,7 +102,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 ### Background
 - First desktop computer in 3rd grade as a prize for high academic achievement.
 - Worked in multiple industries.
-- Want to make Exacerbated Impact.
+- Want to make an exacerbated impact.
 - Want to make a better life for her sons and others.
 
 ### Barriers in AI
@@ -111,9 +110,9 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 - It does not have the voices and experiences of all stakeholders.
 - How to bring in the voices that may not sit at the table.
 - Lack of understanding when using systems.
-- Do not be afraid of AI. We always had a form of AI in our technology, some may not know they were using it.
+- Do not be afraid of AI. We always had a form of AI in our technology; some may not know they were using it.
 
-### What advice would you give and finding supportive networks
+### What advice would you give on finding supportive networks
 - If connecting in LinkedIn, in note ask for a 30-minute coffee or virtual convo to make a connection.
 - Think about your network strategically.
     - Who do I need to know?
@@ -123,24 +122,24 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 ### Background
 - She taught herself how to program in Basic.
 - Her mother enrolled her in the Puerto Rico school.
-- Took her 10 years to receive bachelor's degree. During that time, she had a child young and then a second child.
+- It took her 10 years to receive a bachelor's degree. During that time, she had a child young and then a second child.
 - She did not give up.
-- She got a nursing degree to help pay for college, so then she could pivot to what she wants – Tech.
+- She got a nursing degree to help pay for college, so then she could pivot to what she wants – tech.
 - Good data management became a part of her focus in tech working in hospitals.
-- 1% Latina work in AI, and 0.98% Black Women in AI globally.
+- 1% Latinas work in AI, and 0.98% Black women in AI globally.
 
 ### What does she envision AI change workforce over decade
-- Help businesses integrate AI into business workflow.
+- Help businesses integrate AI into their business workflow.
 - Work to try to build a portfolio for yourself and how to integrate into enterprise systems.
 - Try to build pipelines.
 - She helps build use cases.
 - Learning a programming language, right now Phyton.
 - Learn how to use and understand algorithms.
-- If you want hands on experience, try getting into health or finance.
+- If you want hands-on experience, try getting into health or finance.
 
-### What advice would you give and finding supportive networks
-- Find a mentor in a role that are in role you want.
-- Find a sponsor. The sponsor owns the relationship They will advocate for you when you are not in a room.
+### What advice would you give on finding supportive networks
+- Find a mentor in a role that is in the role you want.
+- Find a sponsor. The sponsor owns the relationship. They will advocate for you when you are not in a room.
     - This relationship is developed overtime.
     - Be consistent.
 
@@ -151,22 +150,22 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 
 ### Background
-- Developed a knack for SQL while working as Research Assistant.
+- Developed a knack for SQL while working as a research assistant.
 - She is skilled in Agile.
-- Worked at Wal-Mart and volunteer for projects.
-- Data Management Transformation in retail for Walmart.
+- Worked at Wal-Mart and volunteered for projects.
+    - Data Management Transformation in retail for Walmart.
 - Created the first Center of Excellence.
-- Skills keep you in demand and they can take you where you want to go.
+- Skills keep you in demand, and they can take you where you want to go.
 - Know how to manage teams in AI, strategy, and ROI. Create a case study.
 - Managed multiple teams in AI.
 - Learn how to navigate the situations you are in.
 - Internal Expert on how to get innovation started.
 - Data is applicable to every type of business.
 
-### What advice would you give and finding supportive networks
+### What advice would you give on finding supportive networks
 - Do not leave the event without meeting someone new.
 - Focus in and learn.
-- Community Service with high schoolers.
+- Community service with high schoolers.
 
 <br/>
 
@@ -178,7 +177,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 ## Takeaways
 - Run your own race.
-- Be authentic to your mission in life and what you are doing.
+- Be authentic about your mission in life and what you are doing.
 
 ## Panel Speakers
 1. Gina Swanson
@@ -188,7 +187,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 ### Background
 - Work with Tank and the Bangas, an American musical group based in New Orleans.
 - Help the vision of the artist come to life.
-- Teach Music Management at Loyola.
+- Teach music management at Loyola.
 - Older sister.
 - Degree in Business.
 - She managed Alfred Banks, an emerging New Orleans rapper, for 6 years.
@@ -199,7 +198,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 - Sent inspiration quotes to Tank.
 - A faith quote sent to Tank influenced Tank had quit her job at IHOP.
 - Tavia was persistent, but not nagging about working with Tank.
-- Tavia pushed Tank to create a Spoken Work for first album.
+- Tavia pushed Tank to create a spoken word for the first album.
 
 ### Tavia's Story
 - She quit her government job to focus on Tank.
@@ -219,33 +218,33 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 - Feeling as if she exhausted all the resources she had.
 
 ### Turning Point
-- NPR Tiny Desk performance was a breakthrough for the band.
-- Tank and Tavia would feel successful if their career can sustain their lifestyle.
+- The NPR Tiny Desk performance was a breakthrough for the band.
+- Tank and Tavia would feel successful if their careers could sustain their lifestyle.
 
 ### Music Business Treachery
-- The band did not want to make a certain decision and business executives called her business partner behind her back.
+- The band did not want to make a certain decision, and business executives called her business partner behind her back.
 
 ### Technology in Trajectory of Tank and the Bangas
 - You do not need CDs.
-- Maximize Social Media.
+- Maximize social media.
 - Tank stayed true to herself. It might take longer.
 
 ### Trends
 - Negative being the new positive.
 - Do not do what is trendy.
-- You must get comfortable with who is in the room, and not focus on who is not.
+- You must get comfortable with who is in the room and not focus on who is not.
 
 ### Advice
 - Learn as much as you can.
-- Get in the field, make mistakes.
-- In the management position, what you do not know, it hurts the artist. Seek counsel.
+- Get in the field; make mistakes.
+- In the management position, what you do not know hurts the artist. Seek counsel.
 - Make technology beneficial to you.
 - She thinks there need to be laws to protect creatives and artists.
 - Diversify yourself. Use music as a platform to do it.
 
 ### Moving Forward with Tank and Technology Usage
-- Currently, Tank is closed off to tech, but now open to it.
-- See Tank acting and Broadway; working on a script.
+- Currently, Tank is closed off to tech but now open to it.
+- See Tank acting on Broadway, and currently she is working on a script.
 
 <br/>
 
@@ -272,7 +271,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 - The abundance of technology will be a market for a human made things: AI Content vs Human-Made Content.
 
 ### Positive
-- There are good things such as using it to connect with people to get songs cleared.
+- There are good things, such as using it to connect with people to get songs cleared.
 
 ## Donovan Williams
 ### Background
@@ -287,7 +286,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 
 ## Lou Hill
 ### Background
-- Band - Water Seed.
+- Band: Water Seed.
 - Right now, music is marginally authentic.
 
 ### AI Impact
@@ -302,7 +301,7 @@ Additionally, the keynote addressed the theme of AI, Creators, and the Digital R
 - A producer can take on my clients.
 
 ### Hope for Future
-- Hope the industry go back to having A&R.
+- Hope the industry goes back to having A&R.
 
 <br/>
 
